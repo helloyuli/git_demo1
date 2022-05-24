@@ -46,5 +46,5 @@ hello Git!
 hello Git!
 hello Git!
 hello Git!
-hello Git!
 hello Git! master Test 
+hello Git! Hot-fix Test
